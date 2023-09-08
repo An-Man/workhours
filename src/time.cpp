@@ -1,8 +1,12 @@
 #include "../include/time.h"
+#include <cmath>
 
 void Workday::calculate_length() {
     int total_minutes {((end.hours * 60) + end.minutes) - ((start.hours * 60) + start.minutes)};
-    length = static_cast<float>(total_minutes) / 60.0f;
+    float total_hours {static_cast<float>(total_minutes) / 60.0f};
+    
+    // round to nearest quarter
+    // length = ;  
 }
 
 void Workday::print_length() {
