@@ -1,7 +1,6 @@
 #include <iostream>
 #include "include/time.h"
 
-
 int main()
 {
     Workday workday;
@@ -15,13 +14,12 @@ int main()
     workday.end = ask_time();
 
     // calculate workday
-    workday.calculate_length(); 
+    workday.calculate_lengths(); 
     
     // print workday
-    workday.print_length();
-    
-    // add rounding to nearest 0.25
-    // UI!
+    workday.print_start_end();
+    workday.print_length_in_hh_mm();
+    workday.print_length_in_decimal();
 
     return 0;
 }
