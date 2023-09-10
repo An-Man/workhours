@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-static const int LUNCH_BREAK = 30;
+constexpr int LUNCH_BREAK = 30;
 
 struct Time {
     int hours {};
