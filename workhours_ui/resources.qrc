@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>DejaVuSans.ttf</file>
+        <file>piis_iso.gif</file>
+    </qresource>
+</RCC>

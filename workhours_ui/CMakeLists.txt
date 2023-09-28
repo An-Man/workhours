@@ -42,6 +42,7 @@ else()
     else()
         add_executable(workhours_ui
             ${PROJECT_SOURCES}
+            resources.qrc
         )
     endif()
 endif()

@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen",
+	"CMAKE_BINARY_DIR" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/anna/projektit/workhours/workhours_ui",
+	"CMAKE_SOURCE_DIR" : "/home/anna/projektit/workhours/workhours_ui",
+	"INCLUDE_DIR" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/anna/projektit/workhours/workhours_ui/DejaVuSans.ttf",
+		"/home/anna/projektit/workhours/workhours_ui/piis_iso.gif"
+	],
+	"LOCK_FILE" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/CMakeFiles/workhours_ui_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/anna/Qt/5.15.15/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/CMakeFiles/workhours_ui_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/anna/projektit/workhours/workhours_ui/resources.qrc",
+	"VERBOSITY" : 0
+}

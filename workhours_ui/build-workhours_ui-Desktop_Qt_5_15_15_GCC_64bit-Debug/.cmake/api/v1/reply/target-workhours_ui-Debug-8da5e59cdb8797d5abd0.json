@@ -38,13 +38,13 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 67,
+				"line" : 68,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 49,
+				"line" : 50,
 				"parent" : 0
 			},
 			{
@@ -82,7 +82,7 @@
 			{
 				"command" : 6,
 				"file" : 0,
-				"line" : 50,
+				"line" : 51,
 				"parent" : 0
 			}
 		]
@@ -172,7 +172,8 @@
 				0,
 				1,
 				2,
-				5
+				5,
+				10
 			]
 		}
 	],
@@ -251,7 +252,8 @@
 				0,
 				1,
 				2,
-				5
+				5,
+				10
 			]
 		},
 		{
@@ -260,7 +262,7 @@
 			[
 				3,
 				6,
-				7
+				8
 			]
 		},
 		{
@@ -268,14 +270,16 @@
 			"sourceIndexes" : 
 			[
 				4,
-				8
+				7,
+				9
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				9
+				11,
+				12
 			]
 		}
 	],
@@ -322,6 +326,11 @@
 			"sourceGroupIndex" : 1
 		},
 		{
+			"backtrace" : 1,
+			"path" : "resources.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen/include/ui_mainwindow.h",
@@ -335,8 +344,21 @@
 		},
 		{
 			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen/EWIEGA46WW/qrc_resources.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen/EWIEGA46WW/qrc_resources.cpp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],

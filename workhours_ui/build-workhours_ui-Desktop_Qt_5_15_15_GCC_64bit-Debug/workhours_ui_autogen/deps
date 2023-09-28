@@ -162,6 +162,7 @@ workhours_ui_autogen/timestamp: \
 	/home/anna/projektit/workhours/workhours_ui/main.cpp \
 	/home/anna/projektit/workhours/workhours_ui/mainwindow.cpp \
 	/home/anna/projektit/workhours/workhours_ui/mainwindow.h \
+	/home/anna/projektit/workhours/workhours_ui/resources.qrc \
 	/home/anna/projektit/workhours/workhours_ui/time.cpp \
 	/home/anna/projektit/workhours/workhours_ui/time.h \
 	/usr/include/alloca.h \

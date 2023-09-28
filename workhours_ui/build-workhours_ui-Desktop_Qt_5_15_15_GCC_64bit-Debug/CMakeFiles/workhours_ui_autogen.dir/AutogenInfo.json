@@ -82,7 +82,8 @@
 		"/home/anna/Qt/5.15.15/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"/home/anna/Qt/5.15.15/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
 		"/home/anna/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeParseArguments.cmake",
-		"/home/anna/Qt/Tools/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake"
+		"/home/anna/Qt/Tools/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake",
+		"/home/anna/projektit/workhours/workhours_ui/resources.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/anna/projektit/workhours/workhours_ui",
 	"DEP_FILE" : "/home/anna/projektit/workhours/workhours_ui/build-workhours_ui-Desktop_Qt_5_15_15_GCC_64bit-Debug/workhours_ui_autogen/deps",

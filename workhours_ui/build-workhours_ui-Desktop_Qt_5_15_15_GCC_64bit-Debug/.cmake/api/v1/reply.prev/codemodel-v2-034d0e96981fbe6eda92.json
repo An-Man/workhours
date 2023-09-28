@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d3718a4d5dc304ec475f.json",
+					"jsonFile" : "directory-.-Debug-09148d618d010bc5068e.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "workhours_ui::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-workhours_ui-Debug-af8cb80deb1a7c6923cd.json",
+					"jsonFile" : "target-workhours_ui-Debug-8da5e59cdb8797d5abd0.json",
 					"name" : "workhours_ui",
 					"projectIndex" : 0
 				},
